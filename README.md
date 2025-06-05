@@ -14,7 +14,7 @@ We implement an iris verification system trained on the CASIA-Iris-Lamp, CASIA-I
 - **Classifier**: Fully connected layers + Sigmoid
 - **Output**: Similarity score (0~1)
 
-![model](.\images\model.png)
+![model](./images/model.png)
 
 ## 📂 Folder Structure
 
@@ -41,8 +41,8 @@ python src/result.py # this will run through run,py and eval.py
 python src/plot.py
 # this will run five method to visualize the decision made in the model
 ```
-![test case(different people)](.\images\test_case.png)
-![integrated gradient](.\images\test_case_visualize.png)
+![test case (different people)](./images/test_case.png)
+![integrated gradient](./images/test_case_visualize.png)
 ## 🧪 Datasets
 CASIA-Iris-Lamp
 
