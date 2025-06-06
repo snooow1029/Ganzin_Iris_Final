@@ -34,7 +34,7 @@ python src/tune_googlenet.py
 
 # evaluate
 # (remember to set checkpoint path in run.py and dataset path in result.py)
-python src/result.py # this will run through run,py and eval.py
+python src/result.py # this will run through run.py and eval.py
 ```
 
 ## 📊 Visualization
