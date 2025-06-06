@@ -19,8 +19,10 @@ We implement an iris verification system trained on the CASIA-Iris-Lamp, CASIA-I
 ## 📂 Folder Structure
 ```
 b11901067/
+├── README.md
 ├── model/ # Saved .pth model files
 ├── src/ # Training and evaluation scripts
+├── images/ # images in readme
 ├── bonus/ # Final bonus result files
 └── test/ # Final test result files
 ```
