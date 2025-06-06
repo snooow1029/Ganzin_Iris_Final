@@ -17,13 +17,13 @@ We implement an iris verification system trained on the CASIA-Iris-Lamp, CASIA-I
 ![model](./images/model.png)
 
 ## 📂 Folder Structure
-
+```
 b11901067/
 ├── model/ # Saved .pth model files
 ├── src/ # Training and evaluation scripts
 ├── bonus/ # Final bonus result files
 └── test/ # Final test result files
-
+```
 ## 🚀 How to Run
 
 ```bash
